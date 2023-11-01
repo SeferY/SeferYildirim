@@ -1,5 +1,6 @@
 import streamlit as st
 
+st.write("Hallo")
 
 
 
@@ -50,3 +51,4 @@ mydb.commit()
 # Die Verbindung zur Datenbank schließen
 mydb.close()
 '''
+
